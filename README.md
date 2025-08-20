@@ -79,7 +79,6 @@ Launch Jupyter Notebook:
 
 jupyter notebook
 
-
 Open the notebooks in each folder and start learning 🎉
 
 🎯 Learning Outcomes

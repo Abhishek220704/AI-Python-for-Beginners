@@ -74,7 +74,6 @@ Clone this repository:
 git clone <repo-link>
 cd Python-main
 
-
 Launch Jupyter Notebook:
 
 jupyter notebook

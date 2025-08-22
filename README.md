@@ -1,89 +1,54 @@
-AI Python for Beginners
+AI Python for Beginners – DeepLearning.AI
 
-Welcome to AI Python for Beginners 🚀
-This course is designed to help you learn Python programming and apply it to Artificial Intelligence (AI) step by step, starting from the basics to working with real data and documents.
+This repository contains my learning journey and hands-on notebooks from the AI Python for Beginners course by DeepLearning.AI. The course focuses on building a solid Python foundation for AI/ML applications, with practical projects and exercises.
 
-📂 Course Structure
+📂 Repository Structure
 
-The repository is divided into three main modules:
+Basics of AI Python Coding/
+Introduction to Python fundamentals such as variables, loops, conditionals, and functions.
 
-1. Basics of AI Python Coding
+Automating Tasks with Python/
+Using Python to automate everyday tasks like text processing, file handling, and data manipulation.
 
-Learn the foundations of Python with AI-focused examples.
+Extending Python with Packages and APIs/
+Leveraging popular Python packages and APIs to extend functionality and build practical AI-powered tools.
 
-1.ipynb – Introduction to Python
+Working with Your Own Data and Documents in Python/
+Techniques for cleaning, organizing, and analyzing datasets and documents using Python.
 
-2.ipynb – Variables, Data Types, and Operators
+🚀 Key Learnings
 
-3.ipynb – Control Flow (if, loops)
+Strengthened Python programming fundamentals.
 
-4.ipynb – Functions and Modules
+Learned to automate repetitive tasks using Python scripts.
 
-5.ipynb – Working with Libraries (NumPy, Pandas basics)
+Explored packages, APIs, and libraries for extending Python’s capabilities.
 
-2. Automating Tasks with Python
+Gained hands-on experience in working with real-world data.
 
-Apply Python to real-world automation tasks.
+💡 Motivation
 
-1.ipynb – File Handling
+A big motivation for me to take this course was my project on AI-powered assistive devices for the visually impaired. Improving my Python and AI fundamentals through this course helped me build a stronger base to implement my ideas.
 
-2.ipynb – Web Scraping Basics
+🛠️ Tech Stack
 
-3.ipynb – Automating Repetitive Tasks
+Python
 
-4.ipynb – Working with APIs
+Jupyter Notebook
 
-5.ipynb – Sending Emails with Python
+Popular libraries: numpy, pandas, requests, etc.
 
-6.ipynb – Mini Automation Project
+📌 How to Use
 
-3. Working with Your Own Data and Documents in Python
+Clone the repository:
 
-Learn to process, analyze, and use your own data for AI projects.
+git clone https://github.com/your-username/Python-main.git
 
-1.ipynb – Handling CSV and Excel Files
 
-2.ipynb – Text Data Processing
+Open the desired notebook in Jupyter Lab/Notebook or Google Colab.
 
-3.ipynb – Working with JSON and APIs
+Run the cells step by step to explore concepts and code.
 
-4.ipynb – Data Cleaning and Preprocessing
+📖 Course Reference
 
-5.ipynb – Visualizing Data with Matplotlib
-
-6.ipynb – Introduction to AI with Data
-
-7.ipynb – Mini Data Project
-
-🛠️ Requirements
-
-Before you start, install the following:
-
-Python 3.8+
-
-Jupyter Notebook / JupyterLab
-
-Libraries:
-
-pip install numpy pandas matplotlib requests beautifulsoup4
-
-🚀 Getting Started
-
-Clone this repository:
-
-git clone <repo-link>
-cd Python-main
-
-Launch Jupyter Notebook:
-
-jupyter notebook
-
-Open the notebooks in each folder and start learning 🎉
-
-🎯 Learning Outcomes
-
-By the end of this course, you’ll be able to:
-✅ Write Python scripts confidently
-✅ Automate daily tasks using Python
-✅ Work with real-world data and documents
-✅ Build a foundation for AI & Data Science projects
+This repo is based on the AI Python for Beginners course by DeepLearning.AI

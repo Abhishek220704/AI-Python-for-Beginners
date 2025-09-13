@@ -2,6 +2,7 @@ AI Python for Beginners – DeepLearning.AI
 
 This repository contains my learning journey and hands-on notebooks from the AI Python for Beginners course by DeepLearning.AI. The course focuses on building a solid Python foundation for AI/ML applications, with practical projects and exercises.
 
+
 📂 Repository Structure
 
 Basics of AI Python Coding/
